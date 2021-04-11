@@ -114,6 +114,7 @@ header {
 
 .lessons{
   margin-top:300px;
+  padding-top:300px;
 
 }
 .lesson-wrapper {
@@ -136,6 +137,7 @@ header {
 }
 
 .lesson {
+  margin-top:300px;
   float: left;
   width: 25%;
   paddimg-top:300px;
